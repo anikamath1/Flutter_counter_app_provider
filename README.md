@@ -1,6 +1,6 @@
-# flutterapp2
+# Flutter Counter App
 
-A new Flutter application.
+A basic counter app implemented using Providers in Flutter
 
 ## Getting Started
 
